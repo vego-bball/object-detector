@@ -1,0 +1,62 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+#i
+{
+    background-color: beige;
+    color: blueviolet;
+    padding: 10px;
+    margin: 2px;
+    margin-top: 10px;
+}
+
+#m
+{
+    background-color: navy;
+    color: whitesmoke;
+    padding: 10px;
+    margin: 2px;
+    margin-top: 10px;
+}
+
+#a
+{
+    background-color: darkkhaki;
+    color: brown;
+    padding: 10px;
+    margin: 2px;
+    margin-top: 10px;
+}
+
+#g
+{
+    background-color: aqua;
+    color: pink;
+    padding: 10px;
+    margin: 2px;
+    margin-top: 10px;
+}
+
+#e
+{
+    background-color: darkturquoise;
+    color: white;
+    padding: 10px;
+    margin: 2px;
+    margin-top: 10px;
+}
